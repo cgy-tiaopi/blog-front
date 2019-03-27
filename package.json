@@ -1,0 +1,36 @@
+{
+  "name": "blog-front",
+  "version": "1.0.0",
+  "description": "个人博客前端项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgy-tiaopi/blog-front.git"
+  },
+  "keywords": [
+    "blog",
+    "front",
+    "react",
+    "ssr"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgy-tiaopi/blog-front/issues"
+  },
+  "homepage": "https://github.com/cgy-tiaopi/blog-front#readme",
+  "dependencies": {
+    "@zeit/next-less": "^1.0.1",
+    "@zeit/next-typescript": "^1.1.1",
+    "less": "^3.9.0",
+    "next": "^8.0.3",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "typescript": "^3.3.4000"
+  }
+}
